@@ -1,2 +1,2 @@
-# HackerRank
-c++ solution code
+# HackerRank SMITPATEL9898
+c solution code
