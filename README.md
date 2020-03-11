@@ -1,2 +1,0 @@
-# HackerRank
-c++ solution code
